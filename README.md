@@ -27,7 +27,7 @@
 2. Abrir el archivo `index.html` en un navegador.
 
 ## 📌 Estado del Proyecto
-El proyecto está **completo**, pero se pueden hacer mejoras en la interfaz y agregar nuevas funcionalidades como un formulario de adopción.
+El proyecto está **completo**, pero se pueden hacer mejoras en la interfaz y agregar nuevas funcionalidades.
 
 ## 📩 Contacto
 Si quieres colaborar o hacer sugerencias, puedes contactarme en:
