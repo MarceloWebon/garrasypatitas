@@ -31,7 +31,7 @@ El proyecto está **completo**, pero se pueden hacer mejoras en la interfaz y ag
 
 ## 📩 Contacto
 Si quieres colaborar o hacer sugerencias, puedes contactarme en:
-- **GitHub**: [tuusuario](https://github.com/MarceloWebon)
+- **GitHub**: [WebON](https://github.com/MarceloWebon)
 - **Email**: webon.marcelo@gmail.com
 
 ---
